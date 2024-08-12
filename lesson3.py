@@ -16,9 +16,11 @@ print (x1 * x2)
 
 x1 = 6
 x2 = 4 
-
+x3 = 10
 
 print (x1 / x2)
+print (x2 + x3)
+
 
 
 
